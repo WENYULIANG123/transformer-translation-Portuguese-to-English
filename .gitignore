@@ -1,0 +1,35 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# TensorFlow
+*.h5
+*.pb
+saved_model/
+
+# Checkpoints
+10-2_checkpoints/
+8-1_checkpoints/
+*.ckpt.*
+
+# TensorFlow Datasets
+tensorflow_datasets/
+~/tensorflow_datasets/
+
+# Data files
+*.tfrecord
+*.tar.gz
+data_spa_en/
+xiaohuangji40W.tsv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
